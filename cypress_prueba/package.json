@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^15.20.1",
+    "typescript": "^7.0.2"
+  }
+}
